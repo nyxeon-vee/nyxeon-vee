@@ -1,16 +1,13 @@
-## Hi there 👋
+## Milosz Slizewski — Nyxeon
 
-<!--
-**nyxeon-vee/nyxeon-vee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Cloud / DevOps Engineer. 
 
-Here are some ideas to get you started:
+Most comfortable in Python, Flask, and Linux. I run everything on my own VPS:
+nginx, Gunicorn, Docker, Let's Encrypt, systemd — the full stack, manually configured.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Stack**
+`Python` `Flask` `PostgreSQL` `Docker` `Kubernetes` `Terraform` `Linux` `nginx` `GitHub Actions` `AWS`
+
+📫 milosz.sli00@gmail.com
