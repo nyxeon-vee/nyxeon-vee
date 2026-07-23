@@ -10,4 +10,4 @@ nginx, Gunicorn, Docker, Let's Encrypt, systemd — the full stack, manually con
 **Stack**
 `Python` `Flask` `PostgreSQL` `Docker` `Kubernetes` `Terraform` `Linux` `nginx` `GitHub Actions` `AWS`
 
-📫 milosz.sli00@gmail.com
+Contact: milosz.sli00@gmail.com
