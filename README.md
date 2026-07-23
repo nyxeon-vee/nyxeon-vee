@@ -1,13 +1,6 @@
-## Milosz Slizewski aka Nyxeon
+## Hiya! I'm Milosz Slizewski aka Nyxeon
 
-Junior Cloud / DevOps Engineer. 
+Self-taught Cloud /DevOps Engineer
 
-Most comfortable in Python, Flask, and Linux. I run everything on my own VPS:
-nginx, Gunicorn, Docker, Let's Encrypt, systemd — the full stack, manually configured.
+Most comfortable in Python, working with linux systems.
 
----
-
-**Stack**
-`Python` `Flask` `PostgreSQL` `Docker` `Kubernetes` `Terraform` `Linux` `nginx` `GitHub Actions` `AWS`
-
-Contact: milosz.sli00@gmail.com
