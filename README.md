@@ -1,4 +1,4 @@
-## Milosz Slizewski — Nyxeon
+## Milosz Slizewski aka Nyxeon
 
 Junior Cloud / DevOps Engineer. 
 
